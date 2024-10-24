@@ -11,4 +11,4 @@
 
 ### Selected Pen - link to your selected pen
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[**Magic Card**](https://codepen.io/gayane-gasparyan/pen/jOmaBQK)
